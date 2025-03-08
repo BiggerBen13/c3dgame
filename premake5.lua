@@ -26,8 +26,6 @@ libs.sokol = { include = path_lib .. "/sokol" }
 
 libs.cglm = { include = path_lib .. "/cglm/include" }
 
-libs
-
 local sokol_shdc
 
 if host_system == "macosx" then

@@ -4,3 +4,6 @@
 [submodule "lib/sokol-tools-bin"]
 	path = lib/sokol-tools-bin
 	url = https://github.com/floooh/sokol-tools-bin
+[submodule "lib/cglm"]
+	path = lib/cglm
+	url = https://github.com/recp/cglm
